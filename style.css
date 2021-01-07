@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    text-align: justify;
+}
+p{
+    color:dimgrey;
+}
+.header{
+    background-color: aliceblue;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: right;
+    padding: 10px;
+    padding-top: 30px;
+    padding-right: 20px;
+    font-weight: 700;
+    
+    }
+    .header a{
+        text-decoration: none;
+        font-size: 20px;
+        padding-left: 20px;
+        text-align: center;
+        color: green;
+    }
+    .boddy1{
+       height: 600px;
+        
+        
+    }
+    .left{
+        float: left;
+        width: 40%;
+        padding: 5%; 
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+    .right{
+        overflow: hidden;
+        width: 40%;
+        padding: 5%;
+    }
+    .right img{
+        width: 100%;
+    }
+    .hight1{
+        font-size: 60px;
+    }
+    .hight2{
+        color:#34495e;
+    }
+    .hight3{
+        color:#e74c3c;
+    }
+    .left a{
+        font-size: 12px;
+        text-decoration: none;
+        background-color:#ff7675 ;
+        color:#fff;
+        font-weight: 500;
+        padding: 15px 40px;
+        border-radius: 5px;
+    }
+    .right1{
+        float: left;
+        width: 40%;
+        padding: 5%;
+        overflow: hidden;
+    
+    }
+    .right1 img{
+        width: 100%;
+    }
+    .left1{
+        overflow: hidden;
+        width: 40%;
+        padding: 5%; 
+        font-family: 'Roboto Condensed', sans-serif;
+        
+    }
+    .left1 a{
+        font-size: 12px;
+        text-decoration: none;
+        background-color:#ff7675 ;
+        color:#fff;
+        font-weight: 500;
+        padding: 15px 40px;
+        border-radius: 5px;
+
+    }
+    
+    .boddy2{
+        height: 600px;
+    }
+    
+    .to{
+        font-size: 40px;
+        text-align: center;
+    }
+    .sp1{
+        color: #ff7979;
+    }
+    .sp2{
+        color: #34495e;
+    }
+    .fo{
+        font-family: 'Poppins', sans-serif;
+    }
+  .log{
+      text-align: center;
+  }
+  .log a{
+      text-decoration: none;
+      font-weight: 900;
+      background-color: red;
+      color:silver;
+      padding: 15px 30px;
+      border-radius: 50px;
+  }
